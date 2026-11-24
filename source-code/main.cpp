@@ -16,4 +16,5 @@ L = p * l;
 //OUTPUT
     cout << "Tampilkan hasil luas: " << L << endl;
 
-  
+  return 0;
+}
